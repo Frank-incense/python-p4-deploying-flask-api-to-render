@@ -52,7 +52,7 @@ jspm_packages
 # Ignore bundler config.
 /.bundle
 
-# Virtual env metadata
+# Virtual envetadata
 .venv
 .env
 # pytest cache
